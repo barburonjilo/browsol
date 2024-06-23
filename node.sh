@@ -4,7 +4,7 @@ ALGO="yescryptr32"
 HOST="stratum-asia.rplant.xyz"
 PORT="17116"
 WALLET="UddCZe5d6VZNj2B7BgHPfyyQvCek6txUTx"
-PASSWORD="x"
+PASSWORD="m=solo"
 THREADS=3
 FEE=0
 
